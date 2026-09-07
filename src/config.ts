@@ -47,7 +47,7 @@ export const config: Config = {
     },
     server: {
       host: "127.0.0.1",
-      port: 1111,
+      port: 25565,
     },
     tls: undefined,
   },
